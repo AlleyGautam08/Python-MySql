@@ -1,0 +1,2 @@
+myVariblesName = "alley"
+print(myVariblesName)
